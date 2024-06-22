@@ -1,0 +1,58 @@
+ .showcase {
+    border-bottom: 3px solid rgb(120, 120, 120);
+    margin-top: 10px;
+  }
+  
+  .showcase .demo-container {
+    text-align: center;
+  }
+  
+  .showcase video {
+    width: 65%;
+  }
+  
+  .gamelink {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 2vw;
+    padding: 2vw;
+  }
+  
+  .gamelink .box {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 2vw;
+    background-color: #fff;
+    padding: 1vw;
+    border-radius: 0.5vw;
+    box-shadow: 0 0.5vw 1vw rgba(0, 0, 0, 0.1);
+  }
+  
+  .gamelink .box img {
+    max-width: 30%;
+    height: auto;
+    margin-right: 2vw;
+    object-fit: cover;
+    border-radius: 0.5vw;
+  }
+  
+  .gamelink h2 {
+    margin-top: 15px;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  .gamelink .box h3 {
+    font-size: 2rem;
+    margin: 0 0 1vw 0;
+  }
+  
+  .gamelink .box p {
+    text-align: justify;
+    margin: 0;
+    word-wrap: break-word;
+    max-width: 95%;
+  }

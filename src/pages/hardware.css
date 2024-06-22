@@ -1,0 +1,46 @@
+.hardware {
+  padding: 20px;
+}
+
+.hardware-guide {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.hardware-guide h3 {
+  font-size: 1.75rem;
+  margin-bottom: 10px;
+}
+
+.hardware-guide p {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.hardware h2 {
+  font-size: 2rem;
+}
+
+.hardware-details {
+  display: flex;
+  justify-content: space-between;
+}
+
+.hardware-info {
+  flex: 1;
+}
+
+.hardware-images {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.hardware-images img {
+  width: 30%;
+  margin-left: 40px;
+}

@@ -1,0 +1,30 @@
+.videos {
+  padding: 20px;
+}
+
+.video {
+  margin-bottom: 30px;
+}
+
+.videos h2 {
+  font-size: 2rem;
+}
+
+.video h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.video-wrapper {
+  position: relative;
+  width: 90%;
+  padding-bottom: 45%;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
