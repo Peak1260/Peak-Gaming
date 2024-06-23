@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Peak Gaming
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to **Peak Gaming** ([https://peak-gaming.netlify.app](https://peak-gaming.netlify.app)), your ultimate destination for all things gaming! Our website is designed to provide you with a comprehensive and engaging gaming experience. Whether you're a casual gamer or a hardcore enthusiast, Peak Gaming has something for everyone. Explore our features and discover how we can enhance your gaming journey.
 
-## Available Scripts
+## Website Features
 
-In the project directory, you can run:
+### Game Reviews
+Stay up-to-date with the latest and greatest in the gaming world. Our team of expert reviewers provides in-depth reviews of new releases, popular titles, and hidden gems. Get insights into gameplay, graphics, storylines, and overall ratings to help you make informed decisions about your next gaming adventure.
 
-### `npm start`
+### News and Updates
+Never miss a beat with our gaming news section. We cover the latest industry news, updates, and trends, keeping you informed about upcoming releases, events, and more. From console launches to game patches, we've got you covered.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Game Trailers and Gameplay Videos
+Experience the thrill of new games through our curated collection of trailers and gameplay videos. Get a sneak peek at upcoming titles and watch gameplay footage to see if a game is right for you. Our videos are updated regularly to ensure you have access to the latest content.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Game Guides and Tutorials
+Level up your gaming skills with our comprehensive guides and tutorials. Whether you're looking for beginner tips or advanced strategies, our guides cover a wide range of games and genres. Learn how to master difficult levels, discover hidden secrets, and improve your overall gameplay.
 
-### `npm test`
+### E-Sports Coverage
+Dive into the exciting world of e-sports with our dedicated coverage. Follow your favorite teams and players, get updates on major tournaments, and watch live streams of competitive gaming events. Our e-sports section keeps you connected to the action-packed world of professional gaming.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Getting Started
 
-### `npm run build`
+To start exploring Peak Gaming, simply navigate through the main menu. Our user-friendly interface makes it easy to find the content you're interested in. Here are a few tips to get you started:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- **Home:** Keep up with the latest e-sport games.
+- **News:** Check out the latest tech news.
+- **Reviews:** See the top game reviews.
+- **Hardware:** Head over to see the best PC builds at each price point.
+- **Videos:** Improve your skills with detailed game guides and tutorials.
